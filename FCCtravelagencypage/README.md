@@ -1,0 +1,38 @@
+# FCCtravelagencypage
+Dani's Travel Agency page from fcc
+Instructions
+Debes tener una declaración DOCTYPE.
+Debes tener un elemento html con lang configurado en en.
+
+Debes tener un elemento head que contenga un elemento void meta con charset configurado en utf-8 y un title con el texto Travel Agency Page.
+
+Debes tener una etiqueta meta en tu elemento head que contenga una breve descripción de tu sitio web para SEO.
+
+Debes tener un elemento h1 para presentar tus destinos de viaje. Debe ser el único elemento h1 en tu página.
+
+Debes tener un párrafo debajo del elemento h1 que introduzca las oportunidades de viaje.
+
+Debes tener un elemento h2 con el texto Packages.
+
+
+
+Debes tener un elemento p que introduzca brevemente los distintos paquetes.
+
+
+
+
+Debes tener un elemento de lista desordenada con dos elementos de lista. Los dos elementos de lista deben tener el texto Group Travels y Private Tours, respectivamente. El texto de cada elemento de lista debe estar encerrado por un elemento ancla.
+
+
+
+
+Debes tener un elemento h2 con el texto Top Itineraries.
+
+
+Debes tener al menos tres elementos figure, cada uno conteniendo un elemento ancla y un elemento figcaption que describa la imagen de la figura.
+
+
+Los tres elementos ancla deben tener un elemento img con un atributo alt apropiado y un atributo src configurado a una imagen válida como su contenido. Puedes usar https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg, https://cdn.freecodecamp.org/curriculum/labs/alps.jpg y https://cdn.freecodecamp.org/curriculum/labs/sea.jpg si quieres.
+
+
+Todos tus cinco elementos ancla deben tener un atributo href con el valor https://www.freecodecamp.org/learn y un atributo target con el valor _blank.
